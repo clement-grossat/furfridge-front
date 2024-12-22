@@ -1,0 +1,1 @@
+# furfridge-front
